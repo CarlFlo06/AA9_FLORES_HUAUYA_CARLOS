@@ -1,0 +1,1 @@
+insert into Afiliado(id,nombres_completos,apellido_paterno,apellido_materno,tipo_documento,numero_documento,direccion,email,telefono1,telefono2) values(1,'Carlos Daniel','Flores','Huauya','DNI','87654321','SJL','carlos@email.com','987654321','123456789');
